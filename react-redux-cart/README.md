@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-##PROJECT UI
+## PROJECT UI
 ![Screenshot](https://github.com/Fatin-Shahriare-Sium/react-redux-cart/blob/master/react-redux-cart/Screenshot%20(329).png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
